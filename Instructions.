@@ -1,0 +1,18 @@
+Hello! Welcome to !!!!Battleship!!!!!!!!
+
+  ───║─▄──▄──▄──▄──║───
+  ───║─▓──▓──▓──▓──║───
+  ───░░░░░░░░░░░░░─║───
+  ▀███████████████████─
+  ░██████████████████▀░
+
+Here are some rules that you need to follow:
+    1. Each player has a board with 10 rows and 10 columns. In secret, each player places their ships on their board before the game begins. Ships can be different sizes, from two to five squares.
+
+    2. Once the ships are placed, players take turns trying to guess the location of the opponent's ships. To do this, the player chooses a coordinate on the opponent's board. If there is a ship in that coordinate, the player marks that coordinate on their board. If there is no ship in that coordinate, the player miss and marks that coordinate on their board.
+
+    3. If a player hits all the coordinates that make up a ship, that ship sinks, but you won't know if you sank the whole ship. If the player who just sank a ship still has turns left, they can continue guessing coordinates.
+
+    4. The first player to sink all of the other player's ships wins the game.
+
+Enjoy the game!
